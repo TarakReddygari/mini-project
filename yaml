@@ -1,0 +1,11 @@
+
+---
+
+### **4. `config.py` (Optional)**
+If you want to keep your API keys or configurations separate, you can create a `config.py` file and load it in your code. Example:
+
+```python
+# config.py
+API_KEY = "AIzaSyCn_OwR47jQcQ6djcX6GlgG9STTxzW2wC8"
+
+
