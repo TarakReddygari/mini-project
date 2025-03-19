@@ -1,0 +1,18 @@
+# Exclude Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Exclude virtual environments
+venv/
+env/
+
+# Exclude temporary files
+*.log
+*.tmp
+
+# Exclude OS-specific files
+.DS_Store
+
+# Exclude unnecessary directories
+node_modules/
